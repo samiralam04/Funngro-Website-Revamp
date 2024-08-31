@@ -1,34 +1,24 @@
-Simply run index.html
+Funngro Website Revamp
+Overview
+This project includes a variety of updates and enhancements to improve user experience, visual appeal, and functionality. The latest changes focus on accessibility, SEO, and interactive elements, as well as refinements to the process bar.
 
-<<<<<<< HEAD
-Key Improvements:
-=======
 Key Improvements
-1. Enhanced User Experience:
- *Light Mode Option: Added a light mode toggle for better accessibility and visual comfort. 
- *SEO-Friendly Content: Updated the content to be more SEO-friendly, specifically tailored for teenagers, to enhance search engine visibility.
->>>>>>> 6efac1b7911c51911f4a26a7270946869e64aed2
-
 Enhanced User Experience:
-1. Introduced a light mode option for better accessibility and visual comfort.
-2. Updated content to be more SEO-friendly, specifically tailored for teenagers, to enhance search engine visibility.
+Light Mode Option: Added a light mode toggle for better accessibility and visual comfort.
+SEO-Friendly Content: Updated content to be more SEO-friendly, specifically tailored for teenagers, to enhance search engine visibility.
+Visual Upgrades
+Dynamic Gradient Background: Replaced the solid background with a dynamic gradient to add depth and vibrancy to the site.
+Additional Tweaks
+Interactive Elements:
 
-Visual Upgrades:
+Improved Hover Animations: Enhanced button and link hover animations for a more interactive experience.
+Removed Webflow Badge: Removed the Webflow badge for a cleaner and more professional appearance.
+Detail Refinements:
 
-1. Replaced the solid background with a dynamic gradient, adding depth and vibrancy to the site.
-
-<<<<<<< HEAD
-Additional Tweaks:
-
-1. Interactive Elements:
-
-1. Improved button and link hover animations for a more interactive experience.
-2. Removed the Webflow badge for a cleaner, more professional appearance.
-
-2. Detail Refinements:
-
-1. Focused on fine-tuning details to create a more engaging, visually appealing, and premium website experience.
-=======
-4. Detail Refinements: 
-  4.1. Fine-Tuning Details: Focused on fine-tuning details to create a more engaging, visually appealing, and premium website experience.
->>>>>>> 6efac1b7911c51911f4a26a7270946869e64aed2
+Fine-Tuning Details: Focused on fine-tuning details to create a more engaging, visually appealing, and premium website experience.
+Process Bar Updates
+Enhanced Animation: Updated the process bar animation to ensure smooth and continuous movement.
+Responsive Design: Improved responsiveness for different screen sizes, ensuring the process bar adapts effectively on both large and small screens.
+Visual Adjustments: Made design refinements to the process bar to enhance visual appeal and user interaction.
+Demo
+Check out the live demo of the project here.
