@@ -13,8 +13,8 @@ https://samiralam04.github.io/Funngro-Website-Revamp/
  ## Additional Tweaks
 ## Interactive Elements:
 
--Improved Hover Animations: Enhanced button and link hover animations for a more interactive experience.
--Removed Webflow Badge: Removed the Webflow badge for a cleaner and more professional appearance.
+- Improved Hover Animations: Enhanced button and link hover animations for a more interactive experience.
+- Removed Webflow Badge: Removed the Webflow badge for a cleaner and more professional appearance.
 
 ## Detail Refinements:
 
