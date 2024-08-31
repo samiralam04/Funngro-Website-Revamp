@@ -1,0 +1,26 @@
+{
+    "version": 3,
+    "sources": [
+        "grid.js"
+    ],
+    "names": [
+        "hoverEffect",
+        "target",
+        "targetBox",
+        "document",
+        "querySelector",
+        "otherBoxes",
+        "querySelectorAll",
+        "classList",
+        "add",
+        "forEach",
+        "box",
+        "resetEffect",
+        "remove"
+    ],
+    "mappings": ";;AAAA,SAASA,WAAT,CAAqBC,MAArB,EAA6B;AACzB,MAAMC,SAAS,GAAGC,QAAQ,CAACC,aAAT,yBAAwCH,MAAxC,EAAlB;AACA,MAAMI,UAAU,GAAGF,QAAQ,CAACG,gBAAT,8BAAgDL,MAAhD,OAAnB;AAEAC,EAAAA,SAAS,CAACK,SAAV,CAAoBC,GAApB,CAAwB,QAAxB;AACAH,EAAAA,UAAU,CAACI,OAAX,CAAmB,UAAAC,GAAG;AAAA,WAAIA,GAAG,CAACH,SAAJ,CAAcC,GAAd,CAAkB,QAAlB,CAAJ;AAAA,GAAtB;AACH;;AAED,SAASG,WAAT,CAAqBV,MAArB,EAA6B;AACzB,MAAMC,SAAS,GAAGC,QAAQ,CAACC,aAAT,yBAAwCH,MAAxC,EAAlB;AACA,MAAMI,UAAU,GAAGF,QAAQ,CAACG,gBAAT,8BAAgDL,MAAhD,OAAnB;AAEAC,EAAAA,SAAS,CAACK,SAAV,CAAoBK,MAApB,CAA2B,QAA3B;AACAP,EAAAA,UAAU,CAACI,OAAX,CAAmB,UAAAC,GAAG;AAAA,WAAIA,GAAG,CAACH,SAAJ,CAAcK,MAAd,CAAqB,QAArB,CAAJ;AAAA,GAAtB;AACH",
+    "sourcesContent": [
+        "function hoverEffect(target) {\r\n    const targetBox = document.querySelector(`.partners-box.${target}`);\r\n    const otherBoxes = document.querySelectorAll(`.partners-box:not(.${target})`);\r\n\r\n    targetBox.classList.add('scaled');\r\n    otherBoxes.forEach(box => box.classList.add('hidden'));\r\n}\r\n\r\nfunction resetEffect(target) {\r\n    const targetBox = document.querySelector(`.partners-box.${target}`);\r\n    const otherBoxes = document.querySelectorAll(`.partners-box:not(.${target})`);\r\n\r\n    targetBox.classList.remove('scaled');\r\n    otherBoxes.forEach(box => box.classList.remove('hidden'));\r\n}\r\n"
+    ],
+    "file": "gridthree.dev.js"
+}

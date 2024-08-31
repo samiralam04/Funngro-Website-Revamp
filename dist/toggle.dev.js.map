@@ -1,0 +1,30 @@
+{
+    "version": 3,
+    "sources": [
+        "toggle.js"
+    ],
+    "names": [
+        "themeToggle",
+        "document",
+        "getElementById",
+        "body",
+        "addEventListener",
+        "classList",
+        "toggle",
+        "localStorage",
+        "setItem",
+        "contains",
+        "textElements",
+        "querySelectorAll",
+        "forEach",
+        "element",
+        "savedTheme",
+        "getItem",
+        "add"
+    ],
+    "mappings": ";;AAAA,IAAMA,WAAW,GAAGC,QAAQ,CAACC,cAAT,CAAwB,cAAxB,CAApB;AACA,IAAMC,IAAI,GAAGF,QAAQ,CAACE,IAAtB;AAEAH,WAAW,CAACI,gBAAZ,CAA6B,OAA7B,EAAsC,YAAM;AACxCD,EAAAA,IAAI,CAACE,SAAL,CAAeC,MAAf,CAAsB,YAAtB;AACAC,EAAAA,YAAY,CAACC,OAAb,CAAqB,OAArB,EAA8BL,IAAI,CAACE,SAAL,CAAeI,QAAf,CAAwB,YAAxB,IAAwC,OAAxC,GAAkD,MAAhF,EAFwC,CAIxC;;AACA,MAAMC,YAAY,GAAGT,QAAQ,CAACU,gBAAT,CAA0B,wBAA1B,CAArB;AACAD,EAAAA,YAAY,CAACE,OAAb,CAAqB,UAAAC,OAAO,EAAI;AAC5BA,IAAAA,OAAO,CAACR,SAAR,CAAkBC,MAAlB,CAAyB,kBAAzB,EAA6CH,IAAI,CAACE,SAAL,CAAeI,QAAf,CAAwB,YAAxB,CAA7C;AACH,GAFD;AAGH,CATD,E,CAWA;;AACA,IAAMK,UAAU,GAAGP,YAAY,CAACQ,OAAb,CAAqB,OAArB,CAAnB;;AACA,IAAID,UAAJ,EAAgB;AACZX,EAAAA,IAAI,CAACE,SAAL,CAAeW,GAAf,CAAmBF,UAAnB;AACH",
+    "sourcesContent": [
+        "const themeToggle = document.getElementById('theme-toggle');\r\nconst body = document.body;\r\n\r\nthemeToggle.addEventListener('click', () => {\r\n    body.classList.toggle('light-mode');\r\n    localStorage.setItem('theme', body.classList.contains('light-mode') ? 'light' : 'dark');\r\n\r\n    // Check for text color change based on theme\r\n    const textElements = document.querySelectorAll('.text-color-light-blue');\r\n    textElements.forEach(element => {\r\n        element.classList.toggle('text-color-black', body.classList.contains('light-mode'));\r\n    });\r\n});\r\n\r\n// Check for stored theme preference\r\nconst savedTheme = localStorage.getItem('theme');\r\nif (savedTheme) {\r\n    body.classList.add(savedTheme);\r\n}"
+    ],
+    "file": "toggle.dev.js"
+}
