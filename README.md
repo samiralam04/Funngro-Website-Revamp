@@ -18,11 +18,7 @@ https://samiralam04.github.io/Funngro-Website-Revamp/
 
 ## Detail Refinements:
 
-## Fine-Tuning Details: 
-
-- Focused on fine-tuning details to create a more engaging, visually appealing, and premium website experience.
-
- ## Process Bar Updates:
+- ## Process Bar Updates:
  
 - Enhanced Animation: Updated the process bar animation to ensure smooth and continuous movement.
 ## Responsive Design: 
