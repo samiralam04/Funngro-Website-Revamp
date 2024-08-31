@@ -16,19 +16,19 @@ https://samiralam04.github.io/Funngro-Website-Revamp/
 -Improved Hover Animations: Enhanced button and link hover animations for a more interactive experience.
 -Removed Webflow Badge: Removed the Webflow badge for a cleaner and more professional appearance.
 
-##Detail Refinements:
+## Detail Refinements:
 
-##Fine-Tuning Details: 
+## Fine-Tuning Details: 
 
--Focused on fine-tuning details to create a more engaging, visually appealing, and premium website experience.
+- Focused on fine-tuning details to create a more engaging, visually appealing, and premium website experience.
 
- ##Process Bar Updates:
+ ## Process Bar Updates:
  
--Enhanced Animation: Updated the process bar animation to ensure smooth and continuous movement.
-##Responsive Design: 
+- Enhanced Animation: Updated the process bar animation to ensure smooth and continuous movement.
+## Responsive Design: 
 
--Improved responsiveness for different screen sizes, ensuring the process bar adapts effectively on both large and small screens.
--Visual Adjustments: Made design refinements to the process bar to enhance visual appeal and user interaction.
+- Improved responsiveness for different screen sizes, ensuring the process bar adapts effectively on both large and small screens.
+- Visual Adjustments: Made design refinements to the process bar to enhance visual appeal and user interaction.
 
 
 ## Description
