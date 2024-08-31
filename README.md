@@ -1,17 +1,17 @@
 ## Funngro Website Revamp 
 
-## Demo
+- ## Demo
 https://samiralam04.github.io/Funngro-Website-Revamp/
 
 ## Key Improvements
 
-## Enhanced User Experience:
+- ## Enhanced User Experience:
 - Light Mode Option: Added a light mode toggle for better accessibility and visual comfort.
 - SEO-Friendly Content: Updated content to be more SEO-friendly, specifically tailored for teenagers, to enhance search engine visibility.
 ## Visual Upgrades:
 - Dynamic Gradient Background: Replaced the solid background with a dynamic gradient to add depth and vibrancy to the site.
  ## Additional Tweaks
-## Interactive Elements:
+- ## Interactive Elements:
 
 - Improved Hover Animations: Enhanced button and link hover animations for a more interactive experience.
 - Removed Webflow Badge: Removed the Webflow badge for a cleaner and more professional appearance.
