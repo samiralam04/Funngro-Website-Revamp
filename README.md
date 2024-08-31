@@ -40,7 +40,13 @@ Developed By Samir Alam .
 
 ## Technologies 
 
-- [HTML]
-- [CSS]
-- [RESPONSIVE-ELEMENTS]
-- [JAVA SCRIPT]
+- ## Technologies
+
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Bootstrap](https://getbootstrap.com/)
+- [Font Awesome](https://fontawesome.com/)
+- [Animate.css](https://animate.style/)
+- [jQuery](https://jquery.com/)
+
