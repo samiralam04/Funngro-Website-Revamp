@@ -40,8 +40,6 @@ Developed By Samir Alam .
 
 ## Technologies 
 
-- ## Technologies
-
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
